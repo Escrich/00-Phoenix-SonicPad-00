@@ -1,2 +1,2 @@
 # 00-Phoenix-SonicPad-00
- Pghoenix 3D printer, with Octopus motherboard and Sonic Pad running Klipper
+ Phoenix 3D printer, with Octopus V1.1 motherboard, and Creality Sonic Pad, running Klipper
