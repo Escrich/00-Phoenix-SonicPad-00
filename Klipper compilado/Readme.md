@@ -1,0 +1,1 @@
+Este es el fichero de Klipper que hay que flashear dentro de la impresora, es el firmware, por tanto, en la sd debe aparecer como firmware.bin, una vez que lo hayas renombrado, este fichero no es universal, es para una tarje BTT Octopus V1.1
