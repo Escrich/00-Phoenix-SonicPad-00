@@ -5,4 +5,4 @@
  
  Mostly own created macros, and adapted existing macros from others.
  
- Everithing Neopixel leds related i'ts fully functional, but still under developement
+ Everything Neopixel leds related i'ts fully functional, but still under developement
