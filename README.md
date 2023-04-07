@@ -1,6 +1,8 @@
 # 00-Phoenix-SonicPad-00
- Phoenix 3D printer, with Octopus V1.1 motherboard, and Creality Sonic Pad, running Klipper.
+ J.M. Escrich, own build and designed Phoenix 3D printer.
  
- Mostly own created macros, and edited macros from others.
+ With Octopus V1.1 motherboard, and a Creality Sonic Pad as a control MCU, running Klipper.
  
-Everithing Neopixel leds related i'ts fully functional, but still under developement
+ Mostly own created macros, and adapted existing macros from others.
+ 
+ Everithing Neopixel leds related i'ts fully functional, but still under developement
