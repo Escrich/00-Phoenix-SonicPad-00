@@ -3,6 +3,6 @@
  
  With Octopus V1.1 motherboard, and a Creality Sonic Pad as a control MCU, running Klipper.
  
- Mostly own created macros, and adapted existing macros from others.
+ Mostly own created macros.
  
  Everything Neopixel leds related i'ts fully functional, but still under developement
