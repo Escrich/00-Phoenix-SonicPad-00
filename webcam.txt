@@ -14,6 +14,7 @@
 # Defaults to auto
 #
 #camera="auto"
+camera="usb"
 
 ### Additional options to supply to MJPG Streamer for the USB camera
 #
@@ -22,6 +23,7 @@
 # Defaults to a resolution of 640x480 px and a framerate of 10 fps
 #
 #camera_usb_options="-r 640x480 -f 10"
+camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-GENERAL_2K_HD_Camera-video-index0"
 
 ### Additional webcam devices known to cause problems with -f
 #
@@ -70,6 +72,7 @@
 #
 #camera_http_webroot="./www-fluidd"
 #camera_http_options="-n"
+camera_http_options="-n -p 8080"
 
 ### EXPERIMENTAL
 # Support for different streamer types.
