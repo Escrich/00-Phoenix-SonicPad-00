@@ -5,7 +5,7 @@
 ### "plain text format" and "disable smart quotes" in "Textedit > Preferences"
 
 ### Configure which camera to use
-#
+# Camara redonda 0
 # Available options are:
 # - auto: tries first usb webcam, if that's not available tries raspi cam
 # - usb: only tries usb webcam
