@@ -1,6 +1,8 @@
 ### Windows users: To edit this file use Notepad++, VSCode, Atom or SublimeText.
 ### Do not use Notepad or WordPad.
 
+# HP
+
 ### MacOSX users: If you use Textedit to edit this file make sure to use
 ### "plain text format" and "disable smart quotes" in "Textedit > Preferences"
 
@@ -15,7 +17,7 @@
 #
 #camera="auto"
 #camera="usb"
-camera="auto"
+camera="usb"
 
 ### Additional options to supply to MJPG Streamer for the USB camera
 #
@@ -72,7 +74,7 @@ camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-Hewlett_Packard_HP_We
 # Current working directory is the mjpg-streamer base directory.
 #
 #camera_http_webroot="./www-fluidd"
-camera_http_options="-n -p 8081"
+camera_http_options="-n -p 8082"
 
 ### EXPERIMENTAL
 # Support for different streamer types.
