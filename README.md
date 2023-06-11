@@ -5,6 +5,6 @@
  
  Mostly own created macros.
  
- Everything Neopixel leds related i'ts fully functional, but still under developement
+ Everything Neopixel leds related i'ts fully functional, no further led related developements in mind, (but this means almost nothing)
  
  20230601 Bed printer size 235 x 235 x 240
