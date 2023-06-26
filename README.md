@@ -8,3 +8,5 @@
  Everything Neopixel leds related i'ts fully functional, no further led related developements in mind, (but this means almost nothing)
  
  20230601 Bed printer size 235 x 235 x 240
+ 
+ 20230627 Version after last upgrade

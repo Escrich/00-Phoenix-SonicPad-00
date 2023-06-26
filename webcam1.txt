@@ -1,13 +1,13 @@
 ### Windows users: To edit this file use Notepad++, VSCode, Atom or SublimeText.
 ### Do not use Notepad or WordPad.
 
-# HP
+# Redonda
 
 ### MacOSX users: If you use Textedit to edit this file make sure to use
 ### "plain text format" and "disable smart quotes" in "Textedit > Preferences"
 
 ### Configure which camera to use
-# Camara HP 1
+# Camara redonda 0
 # Available options are:
 # - auto: tries first usb webcam, if that's not available tries raspi cam
 # - usb: only tries usb webcam
@@ -16,7 +16,6 @@
 # Defaults to auto
 #
 #camera="auto"
-#camera="usb"
 camera="usb"
 
 ### Additional options to supply to MJPG Streamer for the USB camera
@@ -26,7 +25,7 @@ camera="usb"
 # Defaults to a resolution of 640x480 px and a framerate of 10 fps
 #
 #camera_usb_options="-r 640x480 -f 10"
-camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-Hewlett_Packard_HP_Webcam_HD_2300-video-index0"
+camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-GENERAL_2K_HD_Camera-video-index0"
 
 ### Additional webcam devices known to cause problems with -f
 #
@@ -74,6 +73,7 @@ camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-Hewlett_Packard_HP_We
 # Current working directory is the mjpg-streamer base directory.
 #
 #camera_http_webroot="./www-fluidd"
+#camera_http_options="-n"
 camera_http_options="-n -p 8082"
 
 ### EXPERIMENTAL
